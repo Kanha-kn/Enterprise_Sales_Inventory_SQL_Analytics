@@ -1,0 +1,5 @@
+# Ignore the raw dataset
+data/DataCoSupplyChainDataset.csv
+
+# Ignore the Power Bi dashboard File
+power_bi/sales_inventory_telemetry.pbix
